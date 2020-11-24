@@ -1,0 +1,37 @@
+.ImagenCSS {/*Su función es dar estilos CSS a la IMAGEN con clase ImagenCSS*/
+        display:block;/*Su función es mostrar los elementos en líneas independientes y acepta las propiedades width, height y margenes verticales.*/
+        width:415px;        /*Su función es dar un ancho de pixeles a la imagen*/
+        height:415px;       /*Su función es dar un alto de pixeles a la imagen*/
+		border:15px solid #00FFF6; /*Su función es dar un borde con color a la imagen*/
+		padding:5px;/*Su función es establecer un espacio de relleno a todos los lados de la imagen*/
+}/*Su función es terminar los estilos CSS a la IMAGEN con clase ImagenCSS*/
+.TablaCSS{/*Su función es dar estilos CSS a la TABLA con clase TablaCSS*/
+border: 5px solid #FF0000;/*Su función es dar un borde con color a la tabla*/
+width: 55%;/*Su función es dar un ancho de porcentaje a la imagen*/
+font-size: 30px;/*Su función es dar un tamaño de letra*/
+font-family: calibri;/*Su función es asignar una fuente de letra*/
+}/*Su función es terminar los estilos CSS a la TABLA con clase TablaCSS*/
+.TablaCSS .celda1{/*Su función es dar estilos CSS a la celda con clase celda1 de la Tabla con clase TablaCSS*/
+	background-color: blue;/*Su funcón es dar color de fondo para la celda*/
+	color: white;/*Su funcón es dar color de letra para la celda*/
+}/*Su función es terminar los estilos CSS para la celda con clase celda2 de la Tabla con clase TablaCSS*/
+.TablaCSS .celda2{/*Su función es dar estilos CSS a la celda con clase celda1 de la Tabla con clase TablaCSS*/
+	background-color: red;/*Su funcón es dar color de fondo para la celda*/
+	color: white;/*Su funcón es dar color de letra para la celda*/
+}/*Su función es terminar los estilos CSS para la celda con clase celda3 de la Tabla con clase TablaCSS*/
+.TablaCSS .celda3{/*Su función es dar estilos CSS a la celda con clase celda1 de la Tabla con clase TablaCSS*/
+	background-color: green;/*Su funcón es dar color de fondo para la celda*/
+	color: white;/*Su funcón es dar color de letra para la celda*/
+}/*Su función es terminar los estilos CSS para la celda con clase celda4 de la Tabla con clase TablaCSS*/
+.TablaCSS .celda4{/*Su función es dar estilos CSS a la celda con clase celda1 de la Tabla con clase TablaCSS*/
+	background-color: black;/*Su funcón es dar color de fondo para la celda*/
+	color: white;/*Su funcón es dar color de letra para la celda*/
+}/*Su función es terminar los estilos CSS para la celda con clase celda5 de la Tabla con clase TablaCSS*/
+.TablaCSS .celda5{/*Su función es dar estilos CSS a la celda con clase celda1 de la Tabla con clase TablaCSS*/
+	background-color: yellow;/*Su funcón es dar color de fondo para la celda*/
+	color: black;/*Su funcón es dar color de letra para la celda*/
+}/*Su función es terminar los estilos CSS para la celda con clase celda6 de la Tabla con clase TablaCSS*/
+.TablaCSS .celda6{/*Su función es dar estilos CSS a la celda con clase celda1 de la Tabla con clase TablaCSS*/
+	background-color: purple;/*Su funcón es dar color de fondo para la celda*/
+	color: white;/*Su funcón es dar color de letra para la celda*/
+}/*Su función es terminar los estilos CSS para la celda con clase celda1 de la Tabla con clase TablaCSS*/
